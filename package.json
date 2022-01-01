@@ -2,6 +2,7 @@
   "name": "gh-pages-sample",
   "description": "Github Pages Sample.",
   "main": "index.js",
+  "homepage": "http://akihirokubota.github.io/gh-pages-sample",
   "scripts": {
     "build": "webpack",
     "deploy": "gh-pages -d dist"
